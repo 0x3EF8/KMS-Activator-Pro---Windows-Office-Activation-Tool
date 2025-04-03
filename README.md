@@ -3,6 +3,8 @@
 ## Overview
 KMS Activator Pro is a command-line tool designed to activate Microsoft Windows (versions 7 to 11) and Office (2010 to 2021) using a Key Management Service (KMS) server (`kms8.msguides.com`). It features a menu-driven interface, a detailed initialization sequence with system scanning, terminal-based logging, and robust error handling.
 
+![ScreenShot](ss.png)
+
 ## Supported Versions
 - **Windows:**  
   - **Windows 7:** Professional (`VK7JG-NPHTM-C97JM-9MPGT-3V66T`), Enterprise (`33PXH-7Y6KF-2VJC9-XBBR8-HVTHH`)  
