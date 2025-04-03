@@ -21,7 +21,7 @@ KMS Activator Pro is a command-line tool designed to activate Microsoft Windows 
 - **Office:** Optional, 2010-2021 volume-licensed editions  
 
 ## Usage
-1. **Download:** Save the script as `KMS_Activator.bat`.  
+1. **Download:** `KMS_Activator.bat`.  
 2. **Run:** Right-click and select **"Run as administrator"**.  
 3. **Initialization:** The tool scans your system, displaying:  
    - Windows details (base OS, edition, build, architecture)  
