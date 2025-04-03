@@ -19,7 +19,7 @@ KMS Activator Pro is a command-line tool designed to activate Microsoft Windows 
 ## Prerequisites
 - **Operating System:** Windows 7, 8, 8.1, 10, or 11 (KMS-compatible editions)  
 - **Administrative Privileges:** Must be run as administrator  
-- **Internet Connection:** Required for KMS server communication and optional helper script download  
+- **Internet Connection:** Required for KMS server communications
 - **Office:** Optional, 2010-2021 volume-licensed editions  
 
 ## Usage
